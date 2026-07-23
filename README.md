@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=80&lines=%F0%9F%94%AD+Building+AI+Systems;%F0%9F%8E%AF+5%2B+Years+in+Full%20Stack+%26+AI%20Integration" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=80&lines=%F0%9F%94%AD+Building+Enterprise+Applications;%F0%9F%8E%AF+4%2B+Years+in+Salesforce%20|+%26+ServiceNow%20Specialst" alt="Typing SVG" /></a>
 </div>
 
 <!-- SOCIAL BADGES -->
