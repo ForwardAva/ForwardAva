@@ -1,139 +1,378 @@
-<!-- HEADER WITH TYPING SVG -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,18,25&height=220&section=header&text=Oscar%20Santos%20Garcia&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Enterprise%20Application%20Developer%20🚀%20Salesforce%20|%20ServiceNow&descAlignY=55&descSize=20"/>
-</div>
+<!-- ========================= HERO ========================= -->
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=80&lines=%F0%9F%94%AD+Building+Enterprise+Applications;%F0%9F%8E%AF+4%2B+Years+in+Salesforce+%26+ServiceNow%20Development" alt="Typing SVG" /></a>
-</div>
 
-<!-- SOCIAL BADGES -->
-<div align="center">
-  <a href="mailto:oscar.garcia.work2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://oscar-garcia-portfolio.pages.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Open_to_Work-00B16A?style=for-the-badge&logo=handshake&logoColor=white"/>
-  <img src="https://komarev.com/ghpvc/?username=ForwardAva&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS"/>
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=34&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&height=70&lines=AI+Quality+Engineer;AI+Coding+Evaluator;AI+Application+Developer;Building+Reliable+AI+Systems" />
 
-<br/>
-
-<!-- ABOUT ME AND TROPHIES SIDE BY SIDE -->
-## 👨‍💻 About Me
-
-```yaml
-name: Oscar Santos Garcia
-role: Enterprise Application Developer | Salesforce & ServiceNow Specialist
-location: Puerto Princesa City, Palawan, Philippines
-experience: 4+ years in Salesforcec & ServiceNow
-focus:
-  - Enterprise Application Development & Architecture
-  - Salesforce CRM Platform Development
-  - ServiceNow Enterprise Workflow Solutions
-  - Business Process Automation & System Integration
-education: Computer Science @ De La Salle University
-languages:
-  - Filipino (Native)
-  - English (Professionally Proficient)
-  - Spanish (Basic)
-currently:
-  - 🔭 Looking for remote jobs
-  - 💬 Ask me about: Salesforce, ServiceNow, Digital Business Solutions
-```
 <br>
 
-<!-- KEY PROJECTS -->
-## 🏗️ Key Projects
+<h1>Oscar Garcia</h1>
 
-<table width="100%">
+<h3>
+AI Quality Engineer • AI Coding Evaluator • AI Application Developer
+</h3>
+
+<p>
+Building reliable AI systems through evaluation, software engineering, and intelligent application development.
+</p>
+
+<br>
+
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Email-24292F?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/yourusername">
+<img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.freelancer.com/u/yourusername">
+<img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Specializing In
+
+🤖 AI Quality Engineering &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+🧠 LLM Evaluation &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+💻 AI Application Development &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+🧪 Software Testing
+
+</div>
+
+---
+
+<!-- ========================= ABOUT ========================= -->
+
+# 💡 About Me
+
+I am an **AI Quality Engineer** specializing in **LLM evaluation, AI application development, and software quality engineering**.
+
+My work focuses on evaluating AI-generated outputs, improving model reliability, testing intelligent systems, and building scalable AI-powered applications. I combine software engineering with systematic quality assurance to ensure AI solutions are accurate, reliable, and production-ready.
+
+---
+
+## 🎯 Focus Areas
+
+- 🤖 AI Quality Engineering
+- 🧠 LLM Evaluation
+- 💻 AI Application Development
+- 🧪 Software Testing & QA
+- 🔍 Code Review
+- ⚡ API Integration
+- 📚 Technical Documentation
+- 🚀 Full-Stack Development
+
+---
+
+## 📈 Professional Highlights
+
+| Metric | Value |
+|---------|------:|
+| AI Responses Evaluated | **3,000+** |
+| Evaluation Tasks Designed | **150+** |
+| AI Applications Built | **10+** |
+| Code Reviews Completed | **500+** |
+| Learners Mentored | **100+** |
+| Software Projects | **30+** |
+
+---
+
+<!-- ========================= TECH STACK ========================= -->
+
+# 🛠 Tech Stack
+
+<table>
 <tr>
-<td width="50%">
-<h3 align="center">🏢 Enterprise Application Development</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Modern%20CRM%20Platform-326CE5?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Monica%20CRM-F46800?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Espo%20CRM-0074D9?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SN%20Code%20Library-E6522C?style=flat-square&logoColor=white"/>
+<td valign="top" width="25%">
+
+### 💻 Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,sql" />
 </p>
-<p align="center"><em>Building enterprise solutions that improve customer management, IT service operations, and business processes through CRM, ITSM platforms, workflow automation, and customized enterprise applications.</em></p>
-</td>
-<td width="50%">
-<h3 align="center">🔄 Enterprise Automation & Integration</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Security%20ITSM%20Connector-632CA6?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Automation%20Hub-000000?style=flat-square&logoColor=white"/>
+
+### 🎨 Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 </p>
-<p align="center"><em>Building API-driven integration solutions that connect CRM, ITSM, and business systems, enabling secure data exchange, process automation, and seamless communication between enterprise platforms.</em></p>
+
 </td>
-</tr>
-<tr>
-<td width="50%">
-<h3 align="center">💻 Full-Stack Web Engineering</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Workflow%20Tracker-F46800?style=flat-square&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Digital%20Learning%20Platform-632CA6?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Student%20Information%20System-E6522C?style=flat-square&logoColor=white"/>
+
+<td valign="top" width="25%">
+  
+ ### ⚙ Backend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
-<p align="center"><em>Building modern and scalable business applications using frontend and backend technologies, developing responsive user interfaces, reliable APIs, database solutions, and enterprise-grade software systems.</em></p>
+  
+  ### 🗄 Database
+  
+  <p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase" />
+  </p>
+  
 </td>
-<td width="50%">
-<h3 align="center">☁️ Cloud & Scalable Systems</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Enterprise%20Digital%20Platform-232F3E?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%20Automation%20Platform-632CA6?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud%20Business%20Platform-E6522C?style=flat-square&logoColor=white"/>
+
+<td valign="top" width="25%">
+
+### 🤖 AI & APIs
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
-<p align="center"><em>Building secure, scalable, and maintainable cloud applications by applying modern architecture, DevOps practices, CI/CD pipelines, containerization, and cloud infrastructure for enterprise environments.</em></p>
+
+- OpenAI API
+- Prompt Engineering
+- LLM Evaluation
+- AI Testing
+- RAG Applications
+
 </td>
+
+<td valign="top" width="25%">
+  
+  ### ☁ Cloud & DevOps
+  
+  <p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,cloudflare,vercel,netlify" />
+  </p>
+  
+  ### 🔧 Tools
+  
+  <p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,postman,npm,pnpm" />
+  </p>
+  
+</td>
+
 </tr>
 </table>
 
-## ⚡ Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Apex-1798C1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LWC-1589EE?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ITSM-Workflow-blue?style=for-the-badge"/>
-</p>
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,postgres,docker,aws,git" />
-</p>
+<!-- ========================= FEATURED PROJECTS ========================= -->
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🤖 AI Application Suite
+
+Modern AI-powered applications built with LLMs, automation workflows, and full-stack technologies.
+
+**Highlights**
+
+- 🤖 LLM Integration
+- ⚡ AI Automation
+- 🔗 REST API Integration
+- 🧠 Prompt Engineering
+- 📦 Production Architecture
+
+**Tech Stack**
+
+JavaScript • TypeScript • Python • React • Node.js • OpenAI API
+
+**Repository**
+
+🔗 https://github.com/yourusername/project-name
+
+</td>
+
+<td width="50%">
+
+## 🧪 LLM Evaluation Toolkit
+
+A toolkit for evaluating AI-generated responses, code quality, reasoning, and instruction following.
+
+**Highlights**
+
+- ✅ AI Response Evaluation
+- 🧪 Quality Assurance
+- 📊 Evaluation Metrics
+- 📝 Structured Feedback
+- 📈 Performance Analysis
+
+**Tech Stack**
+
+Python • JavaScript • OpenAI API
+
+**Repository**
+
+🔗 https://github.com/yourusername/project-name
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## 💻 Full Stack Platform
+
+A scalable web application demonstrating modern software engineering practices.
+
+**Highlights**
+
+- Authentication
+- REST APIs
+- Database Design
+- Responsive UI
+- Deployment Pipeline
+
+**Tech Stack**
+
+React • Node.js • PostgreSQL
+
+**Repository**
+
+🔗 https://github.com/yourusername/project-name
+
+</td>
+
+<td>
+
+## ⚡ Developer Automation
+
+Automation tools designed to improve developer productivity and workflow efficiency.
+
+**Highlights**
+
+- Automation Scripts
+- API Integration
+- CLI Utilities
+- Data Processing
+- Productivity Tools
+
+**Tech Stack**
+
+Python • Node.js
+
+**Repository**
+
+🔗 https://github.com/yourusername/project-name
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<!-- ========================= IMPACT ========================= -->
+
+# 📊 Professional Impact
+
+<div align="center">
+
+| AI & Quality | Software Engineering | Education |
+|:------------:|:--------------------:|:---------:|
+| **3,000+**<br>AI Responses Evaluated | **10+**<br>AI Applications Built | **100+**<br>Learners Mentored |
+| **150+**<br>Evaluation Tasks Designed | **20+**<br>API Integrations | **500+**<br>Code Reviews |
+| **500+**<br>Quality Issues Documented | **30+**<br>Software Projects | **60+**<br>Learning Resources |
+
+</div>
+
+---
+
+## 🎯 Core Competencies
+
+```text
+AI Evaluation           ████████████████████ 95%
+
+AI Quality Assurance    ███████████████████  92%
+
+Prompt Engineering      ██████████████████   90%
+
+Software Development    ██████████████████   90%
+
+REST API Integration    █████████████████    88%
+
+JavaScript              ███████████████████  93%
+
+TypeScript              █████████████████    88%
+
+Python                  █████████████████    87%
+
+Technical Documentation ████████████████     85%
+```
+
+---
+
+## 💼 Services
+
+| Service | Description |
+|---------|-------------|
+| 🤖 AI Quality Engineering | AI response validation, quality assessment, testing |
+| 🧠 LLM Evaluation | Code evaluation, reasoning analysis, instruction following |
+| 💻 AI Application Development | AI-powered web applications and automation |
+| 🧪 Software Testing | Functional, API, integration and quality testing |
+| 🔌 API Integration | OpenAI APIs, REST APIs and third-party services |
+
+---
+
+<!-- ========================= GITHUB ANALYTICS ========================= -->
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
+
+</div>
 
 <br>
 
-## 📈 Analytics & Activity
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com/demo/preview.php?user=ForwardAva&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+
+<img src="https://streak-stats.demolab.com?user=ForwardAva&hide_border=true"/>
+
 </div>
 
-<br/>
+<br>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ForwardAva&custom_title=Contribution%20Graph&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area_color=A855F7&area=true&hide_border=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ForwardAva&custom_title=Contribution%20Graph&theme=minimal&area=true&hide_border=true"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ForwardAva&custom_title=Contribution%20Graph&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area_color=A855F7&area=true&hide_border=true"/>
-  </picture>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ForwardAva&hide_border=true"/>
+
 </div>
 
-<br/>
+---
+
+<!-- ========================= CERTIFICATIONS ========================= -->
+
+# 📜 Certifications
+
+> Coming Soon
+
+Currently expanding expertise in AI Quality Engineering, LLM Evaluation, Cloud Technologies, and Software Testing.
+
+---
+
+<!-- ========================= FOOTER ========================= -->
 
 <div align="center">
-  <h2>💬 Let's connect and build observable systems together!</h2>
-  <a href="mailto:larrymargerum1950@gmail.com">
-    <img src="https://img.shields.io/badge/Send_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
 
-<br/>
+### "Building reliable AI systems through engineering, evaluation, and continuous improvement."
 
-<!-- FOOTER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,18,25&height=100&section=footer"/>
+⭐ Thanks for visiting my profile!
+
 </div>
