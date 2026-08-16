@@ -22,7 +22,7 @@ Building reliable AI systems through evaluation, software engineering, and intel
 <img src="https://img.shields.io/badge/Email-24292F?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/oscargarcia428">
 <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -30,7 +30,7 @@ Building reliable AI systems through evaluation, software engineering, and intel
 <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="https://www.freelancer.com/u/yourusername">
+<a href="https://www.freelancer.com/u/oscargarcia428">
 <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white"/>
 </a>
 
@@ -187,10 +187,6 @@ Modern AI-powered applications built with LLMs, automation workflows, and full-s
 
 JavaScript • TypeScript • Python • React • Node.js • OpenAI API
 
-**Repository**
-
-🔗 https://github.com/yourusername/project-name
-
 </td>
 
 <td width="50%">
@@ -210,10 +206,6 @@ A toolkit for evaluating AI-generated responses, code quality, reasoning, and in
 **Tech Stack**
 
 Python • JavaScript • OpenAI API
-
-**Repository**
-
-🔗 https://github.com/yourusername/project-name
 
 </td>
 
@@ -239,10 +231,6 @@ A scalable web application demonstrating modern software engineering practices.
 
 React • Node.js • PostgreSQL
 
-**Repository**
-
-🔗 https://github.com/yourusername/project-name
-
 </td>
 
 <td>
@@ -262,10 +250,6 @@ Automation tools designed to improve developer productivity and workflow efficie
 **Tech Stack**
 
 Python • Node.js
-
-**Repository**
-
-🔗 https://github.com/yourusername/project-name
 
 </td>
 
