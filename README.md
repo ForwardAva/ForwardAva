@@ -317,17 +317,9 @@ Technical Documentation ████████████████     85%
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ForwardAva&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oscargarcia428&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForwardAva&layout=compact&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ForwardAva&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscargarcia428&layout=compact&hide_border=true"/>
 
 </div>
 
@@ -335,7 +327,15 @@ Technical Documentation ████████████████     85%
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ForwardAva&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=oscargarcia428&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=oscargarcia428&hide_border=true"/>
 
 </div>
 
